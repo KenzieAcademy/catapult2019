@@ -39,9 +39,7 @@ a {
     width: 400px;
 }
 
-#list a {
-    margin-left: 10px;
-}
+
 #list:first-child {
     margin-top: 0;
 }
