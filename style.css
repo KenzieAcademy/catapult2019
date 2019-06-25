@@ -1,0 +1,51 @@
+.logo {
+    height: 60px;
+    float: left;
+    margin-right: 20px;
+}
+
+div {
+    
+}
+
+h1 {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+h2 {
+    margin: 20px 0 5px;
+    font-size: 22px;
+}
+
+h3 {
+    margin: 12px 0 0;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+#list {
+    font-size: 18px;
+    column-count: 2;
+}
+
+#list img {
+    width: 400px;
+}
+
+#list a {
+    margin-left: 10px;
+}
+#list:first-child {
+    margin-top: 0;
+}
+
+.github {
+    font-size: 14px;
+}
