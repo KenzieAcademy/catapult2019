@@ -33,14 +33,15 @@ a {
 
 #list {
     font-size: 18px;
-    /* column-count: 2; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 .student {
     width: 400px;
     margin: 5px;
     padding:10px;
     height: 290px;
-    float: left;
     background-color: #eeeeee;
 }
 
