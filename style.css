@@ -45,6 +45,13 @@ a {
     background-color: #eeeeee;
 }
 
+#list .student:hover img {
+    position: relative;
+    left: -10%;
+    width: 120%;
+    border: 5px solid #ccc;
+}
+
 @media (max-width: 600px) {
     .student {
         width: 100%;
